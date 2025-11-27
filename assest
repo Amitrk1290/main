@@ -1,1 +1,13 @@
+git brach
+git checkout -b Hello world 
+git push origin helloworld
+git commit -a -m "commit inside"
+
+
+cp* /var/www/html
+group add www-data
+usermod -ag www-data Jenkins 
+sudo chown Jenkins 
+sudo chmod-R2771 html
+rm/ var
 
